@@ -1,0 +1,6 @@
+{
+  "name": "Cumpărături",
+  "description": "Asistent inteligent și simplu de cumpărături pentru Cluj cu optimizare maximă a turelor de ghiozdan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
